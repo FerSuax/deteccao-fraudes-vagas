@@ -23,6 +23,12 @@ Representação do stacking:
 # Resultados:
 
 ## Acurácia
+
+### Baseline
+| Base inteira | Treino | Teste |
+| -------- | -------- | -------- |
+| 95.16 | 95.28 | 94.66 |
+
 ### Base sem NLP
 | Modelo | Treino | Teste |
 | ------------- | ------------- | ------------- |
